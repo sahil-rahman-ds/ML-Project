@@ -96,3 +96,12 @@ Feel free to star this repository if you find it helpful!
 1. Replace `https://github.com/sahil-rahman-ds/ML-Project` in the clone command with your actual repository URL.
 2. If your web app uses a framework other than Flask (like FastAPI or Django), just update the **Technologies Used** section.
 3. Make sure you don't commit the `venv`, `__pycache__`, or heavy datasets inside the `artifacts` folder (ensure they are properly listed in your `.gitignore`).
+
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+License
+This project is licensed under the terms of the MIT License - see the LICENSE file for details.
+
+Author
+sahil-rahman-ds
